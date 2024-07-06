@@ -1,0 +1,21 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1939
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193933523
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    D:\\BPSoft\\VS\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\include \
+    D:\\BPSoft\\VS\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\ATLMFC\\include \
+    D:\\BPSoft\\VS\\IDE\\VC\\Auxiliary\\VS\\include \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt" \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\um" \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\shared" \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\winrt" \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    D:\\BPSoft\\VS\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\ATLMFC\\lib\\x86 \
+    D:\\BPSoft\\VS\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\lib\\x86 \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\lib\\10.0.22621.0\\ucrt\\x86" \
+    "D:\\BPSoft\\VS\\Windows Kits\\10\\\\lib\\10.0.22621.0\\\\um\\x86"
